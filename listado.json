@@ -1,0 +1,31 @@
+{
+    "nombre": "Lista de Hobbies",
+    "Hobbies": [
+        {
+            "nombre": "Angel",
+            "Hobbie1": "Música",
+            "Hobbie2": "Parlantes"
+        },
+        {
+            "nombre": "Juan",
+            "Hobbie1": "Leer",
+            "Hobbie2": "Jugar videojuegos"
+
+        },
+        {
+            "nombre": "Paula",
+            "Hobbie1": "Pintar",
+            "Hobbie2": "Música"
+        },
+        {
+            "nombre": "Santiago",
+            "Hobbie1": "MMA",
+            "Hobbie2": "Fútbol"
+        },
+        {
+            "nombre": "Mateo",
+            "Hobbie1": "Andar en bici",
+            "Hobbie2": "Jugar al truco"
+        }
+    ]
+}
